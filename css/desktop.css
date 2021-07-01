@@ -1,0 +1,48 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 75px;
+    height: auto;
+}
+.container0 {
+    width: 40%;
+    padding: 25px;
+    height: 300px;
+}
+.container0 h1{
+    font-size: 50px;
+    text-align: left;
+}
+.container0 p {
+    font-size: 15px;
+    text-align: left;
+}
+.container {
+    width: 60%;
+    height: 300px;
+    padding-top: 15px;
+}
+.container__card {
+    width: 85%;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.dos {
+    margin-left: 50px;
+}
+.tres {
+    margin-left: 100px;
+}
+.container2 {
+    display: flex;
+}
+.container2__card {
+    margin: 15px;
+    height: 250px;
+}
+.cinco {
+    margin-top: 35px;
+}
+.seis {
+    margin-top: 50px;
+}
